@@ -1,0 +1,12 @@
+2019-10-10 11:58:51:global name 'pymysql' is not defined 
+2019-10-10 11:59:08:global name 'pymysql' is not defined 
+2019-10-10 11:59:37:global name 'pymysql' is not defined 
+2019-10-10 12:00:50:global name 'host' is not defined 
+2019-10-10 12:01:27:global name 'host' is not defined 
+2019-10-10 12:12:36:global name 'host' is not defined 
+2019-10-10 12:13:04:global name 'host' is not defined 
+2019-10-10 12:13:35:global name 'host' is not defined 
+2019-10-10 12:37:10:global name 'host' is not defined 
+2019-10-10 12:37:24:global name 'host' is not defined 
+2019-10-10 12:37:39:global name 'host' is not defined 
+2019-10-10 12:37:59:global name 'host' is not defined 

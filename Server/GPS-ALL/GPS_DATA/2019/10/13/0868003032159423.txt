@@ -1,0 +1,15 @@
+{"datetimee": "2019-10-13 18:02:28", "equipment_id": "0868003032159423", "latitude": "23.0\u00b00.0", "longitude": "90.0\u00b00.0", "direction": 330, "speed": "0", "bat_power": null}
+{"datetimee": "2019-10-13 18:02:51", "equipment_id": "0868003032159423", "latitude": "23.0\u00b00.0", "longitude": "90.0\u00b00.0", "direction": 330, "speed": "0", "bat_power": null}
+{"datetimee": "2019-10-13 18:03:38", "equipment_id": "0868003032159423", "latitude": "23.0\u00b00.0", "longitude": "90.0\u00b00.0", "direction": 204, "speed": "0", "bat_power": null}
+{"datetimee": "2019-10-13 18:03:59", "equipment_id": "0868003032159423", "latitude": "23.0\u00b00.0", "longitude": "90.0\u00b00.0", "direction": 328, "speed": "0", "bat_power": null}
+{"datetimee": "2019-10-13 18:05:11", "equipment_id": "0868003032159423", "latitude": "23.0\u00b00.0", "longitude": "90.0\u00b00.0", "direction": 98, "speed": "0", "bat_power": null}
+{"datetimee": "2019-10-13 18:32:21", "equipment_id": "0868003032159423", "latitude": "23.0\u00b00.0", "longitude": "90.0\u00b00.0", "direction": 106, "speed": "0", "bat_power": null}
+{"datetimee": "2019-10-13 18:32:49", "equipment_id": "0868003032159423", "latitude": "23.0\u00b00.0", "longitude": "90.0\u00b00.0", "direction": 118, "speed": "0", "bat_power": null}
+{"datetimee": "2019-10-13 18:33:20", "equipment_id": "0868003032159423", "latitude": "23.0\u00b00.0", "longitude": "90.0\u00b00.0", "direction": 109, "speed": "0", "bat_power": null}
+{"datetimee": "2019-10-13 18:34:20", "equipment_id": "0868003032159423", "latitude": "23.0\u00b00.0", "longitude": "90.0\u00b00.0", "direction": 17, "speed": "0", "bat_power": null}
+{"datetimee": "2019-10-13 19:08:02", "equipment_id": "0868003032159423", "latitude": "23.0\u00b00.0", "longitude": "90.0\u00b00.0", "direction": 43, "speed": "4", "bat_power": null}
+{"datetimee": "2019-10-13 19:08:21", "equipment_id": "0868003032159423", "latitude": "23.0\u00b00.0", "longitude": "90.0\u00b00.0", "direction": 321, "speed": "0", "bat_power": null}
+{"datetimee": "2019-10-13 19:10:31", "equipment_id": "0868003032159423", "latitude": "23.0\u00b00.0", "longitude": "90.0\u00b00.0", "direction": 65, "speed": "0", "bat_power": null}
+{"datetimee": "2019-10-13 19:11:02", "equipment_id": "0868003032159423", "latitude": "23.0\u00b00.0", "longitude": "90.0\u00b00.0", "direction": 172, "speed": "0", "bat_power": null}
+{"datetimee": "2019-10-13 19:11:32", "equipment_id": "0868003032159423", "latitude": "23.0\u00b00.0", "longitude": "90.0\u00b00.0", "direction": 357, "speed": "0", "bat_power": null}
+{"datetimee": "2019-10-13 19:12:03", "equipment_id": "0868003032159423", "latitude": "23.0\u00b00.0", "longitude": "90.0\u00b00.0", "direction": 183, "speed": "0", "bat_power": null}

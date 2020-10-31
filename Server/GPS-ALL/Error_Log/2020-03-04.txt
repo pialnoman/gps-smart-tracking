@@ -1,0 +1,16 @@
+2020-03-04 09:12:01:local variable 'latitude_new' referenced before assignment 
+2020-03-04 09:13:24:local variable 'latitude_new' referenced before assignment 
+2020-03-04 09:15:41:local variable 'latitude_new' referenced before assignment 
+2020-03-04 09:24:40:local variable 'latitude_new' referenced before assignment 
+2020-03-04 09:29:11:local variable 'latitude_new' referenced before assignment 
+2020-03-04 09:29:31:local variable 'latitude_new' referenced before assignment 
+2020-03-04 09:29:51:local variable 'latitude_new' referenced before assignment 
+2020-03-04 09:31:11:local variable 'latitude_new' referenced before assignment 
+2020-03-04 09:32:21:local variable 'latitude_new' referenced before assignment 
+2020-03-04 10:05:41:local variable 'latitude_new' referenced before assignment 
+2020-03-04 10:16:21:local variable 'latitude_new' referenced before assignment 
+2020-03-04 13:59:28:(2003, "Can't connect to MySQL server on 'dma-bd.com' (timed out)") 
+2020-03-04 14:00:48:(2003, "Can't connect to MySQL server on 'dma-bd.com' (timed out)") 
+2020-03-04 14:01:43:(2003, "Can't connect to MySQL server on 'dma-bd.com' (timed out)") 
+2020-03-04 14:02:38:(2003, "Can't connect to MySQL server on 'dma-bd.com' (timed out)") 
+2020-03-04 14:03:47:(2003, "Can't connect to MySQL server on 'dma-bd.com' (timed out)") 

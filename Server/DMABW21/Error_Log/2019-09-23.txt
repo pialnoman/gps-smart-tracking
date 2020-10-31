@@ -1,0 +1,7 @@
+2019-09-23 12:25:50:list index out of range 
+2019-09-23 12:27:39:list index out of range 
+2019-09-23 12:28:52:list index out of range 
+2019-09-23 12:29:13:list index out of range 
+2019-09-23 12:47:34:list index out of range 
+2019-09-23 14:12:55:list index out of range 
+2019-09-23 14:13:37:list index out of range 

@@ -1,0 +1,7 @@
+2020-02-27 14:43:27:local variable 'latitude_new' referenced before assignment 
+2020-02-27 14:57:08:local variable 'latitude_new' referenced before assignment 
+2020-02-27 14:57:37:local variable 'latitude_new' referenced before assignment 
+2020-02-27 15:01:07:local variable 'latitude_new' referenced before assignment 
+2020-02-27 15:06:18:local variable 'latitude_new' referenced before assignment 
+2020-02-27 15:06:28:local variable 'latitude_new' referenced before assignment 
+2020-02-27 15:10:18:local variable 'latitude_new' referenced before assignment 

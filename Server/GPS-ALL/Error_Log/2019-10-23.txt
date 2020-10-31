@@ -1,0 +1,2 @@
+2019-10-23 15:38:35:(2003, "Can't connect to MySQL server on 'dma-bd.com' ([Errno 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond)") 
+2019-10-23 15:41:15:(2013, 'Lost connection to MySQL server during query') 

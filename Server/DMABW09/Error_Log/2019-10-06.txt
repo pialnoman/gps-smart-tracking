@@ -1,0 +1,1647 @@
+2019-10-06 20:39:03:invalid literal for int() with base 16: '' 
+2019-10-06 20:39:12:local variable 'packet_length' referenced before assignment 
+2019-10-06 20:42:41:invalid literal for int() with base 16: '' 
+2019-10-06 20:42:50:global name 'direction' is not defined 
+2019-10-06 20:43:03:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:03:global name 'direction' is not defined 
+2019-10-06 20:43:12:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:15:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:18:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:21:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:24:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:30:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:27:global name 'direction' is not defined 
+2019-10-06 20:43:33:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:38:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:39:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:40:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:42:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:47:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:48:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:49:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:51:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:57:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:58:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:58:invalid literal for int() with base 16: '' 
+2019-10-06 20:43:56:global name 'direction' is not defined 
+2019-10-06 20:44:00:invalid literal for int() with base 16: '' 
+2019-10-06 20:44:31:invalid literal for int() with base 16: '' 
+2019-10-06 20:44:40:global name 'direction' is not defined 
+2019-10-06 20:44:48:invalid literal for int() with base 16: '' 
+2019-10-06 20:44:52:invalid literal for int() with base 16: '' 
+2019-10-06 20:44:57:global name 'direction' is not defined 
+2019-10-06 20:45:01:invalid literal for int() with base 16: '' 
+2019-10-06 20:45:31:invalid literal for int() with base 16: '' 
+2019-10-06 20:45:40:global name 'bat_power' is not defined 
+2019-10-06 20:45:48:invalid literal for int() with base 16: '' 
+2019-10-06 20:48:13:invalid literal for int() with base 16: '' 
+2019-10-06 20:48:22:Query instance has no attribute 'data_queue' 
+2019-10-06 20:48:28:invalid literal for int() with base 16: '' 
+2019-10-06 20:48:36:invalid literal for int() with base 16: '' 
+2019-10-06 20:48:37:invalid literal for int() with base 16: '' 
+2019-10-06 20:48:45:invalid literal for int() with base 16: '' 
+2019-10-06 20:48:46:invalid literal for int() with base 16: '' 
+2019-10-06 20:48:48:invalid literal for int() with base 16: '' 
+2019-10-06 20:48:54:invalid literal for int() with base 16: '' 
+2019-10-06 20:48:55:invalid literal for int() with base 16: '' 
+2019-10-06 20:48:57:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:03:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:04:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:06:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:12:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:13:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:15:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:21:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:22:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:24:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:30:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:31:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:33:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:39:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:40:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:42:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:48:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:49:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:51:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:57:invalid literal for int() with base 16: '' 
+2019-10-06 20:49:58:invalid literal for int() with base 16: '' 
+2019-10-06 20:50:00:invalid literal for int() with base 16: '' 
+2019-10-06 20:50:06:invalid literal for int() with base 16: '' 
+2019-10-06 20:50:08:invalid literal for int() with base 16: '' 
+2019-10-06 20:50:15:invalid literal for int() with base 16: '' 
+2019-10-06 20:50:17:invalid literal for int() with base 16: '' 
+2019-10-06 20:50:24:invalid literal for int() with base 16: '' 
+2019-10-06 20:50:26:invalid literal for int() with base 16: '' 
+2019-10-06 20:50:33:invalid literal for int() with base 16: '' 
+2019-10-06 20:50:35:invalid literal for int() with base 16: '' 
+2019-10-06 20:50:42:invalid literal for int() with base 16: '' 
+2019-10-06 20:50:44:invalid literal for int() with base 16: '' 
+2019-10-06 20:50:51:invalid literal for int() with base 16: '' 
+2019-10-06 20:50:53:invalid literal for int() with base 16: '' 
+2019-10-06 20:51:00:invalid literal for int() with base 16: '' 
+2019-10-06 20:51:02:invalid literal for int() with base 16: '' 
+2019-10-06 20:51:09:invalid literal for int() with base 16: '' 
+2019-10-06 20:51:11:invalid literal for int() with base 16: '' 
+2019-10-06 20:51:18:invalid literal for int() with base 16: '' 
+2019-10-06 20:51:20:invalid literal for int() with base 16: '' 
+2019-10-06 20:51:27:invalid literal for int() with base 16: '' 
+2019-10-06 20:51:29:invalid literal for int() with base 16: '' 
+2019-10-06 20:51:36:invalid literal for int() with base 16: '' 
+2019-10-06 20:51:38:invalid literal for int() with base 16: '' 
+2019-10-06 20:51:45:invalid literal for int() with base 16: '' 
+2019-10-06 20:51:47:invalid literal for int() with base 16: '' 
+2019-10-06 20:51:54:invalid literal for int() with base 16: '' 
+2019-10-06 20:51:56:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:03:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:05:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:12:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:14:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:18:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:21:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:23:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:30:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:27:Query instance has no attribute 'data_queue' 
+2019-10-06 20:52:32:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:34:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:39:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:39:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:41:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:43:Query instance has no attribute 'data_queue' 
+2019-10-06 20:52:48:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:49:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:50:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:54:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:56:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:57:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:58:invalid literal for int() with base 16: '' 
+2019-10-06 20:52:59:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:03:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:05:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:06:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:07:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:08:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:14:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:15:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:15:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:16:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:12:Query instance has no attribute 'data_queue' 
+2019-10-06 20:53:17:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:23:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:24:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:24:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:25:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:25:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:26:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:32:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:33:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:33:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:34:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:34:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:34:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:35:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:41:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:42:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:42:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:43:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:43:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:44:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:43:Query instance has no attribute 'data_queue' 
+2019-10-06 20:53:50:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:51:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:51:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:52:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:52:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:53:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:54:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:56:invalid literal for int() with base 16: '' 
+2019-10-06 20:53:59:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:00:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:00:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:01:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:01:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:02:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:03:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:05:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:08:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:09:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:09:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:10:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:10:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:11:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:14:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:14:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:12:Query instance has no attribute 'data_queue' 
+2019-10-06 20:54:17:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:18:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:18:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:19:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:19:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:20:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:23:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:23:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:25:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:26:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:27:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:27:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:28:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:28:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:29:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:32:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:32:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:34:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:34:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:35:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:36:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:36:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:37:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:37:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:38:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:41:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:41:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:43:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:44:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:45:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:45:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:46:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:46:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:43:Query instance has no attribute 'data_queue' 
+2019-10-06 20:54:47:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:50:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:50:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:52:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:53:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:54:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:54:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:54:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:55:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:55:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:56:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:56:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:59:invalid literal for int() with base 16: '' 
+2019-10-06 20:54:59:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:01:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:02:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:03:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:03:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:04:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:04:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:04:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:05:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:05:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:08:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:08:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:10:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:11:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:12:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:13:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:13:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:13:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:14:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:14:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:14:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:12:Query instance has no attribute 'data_queue' 
+2019-10-06 20:55:17:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:18:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:19:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:20:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:21:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:22:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:22:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:22:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:23:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:23:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:23:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:25:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:26:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:27:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:28:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:29:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:30:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:31:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:31:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:31:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:32:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:32:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:32:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:34:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:34:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:35:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:36:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:37:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:38:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:39:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:40:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:40:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:40:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:41:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:41:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:41:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:43:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:44:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:45:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:46:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:43:Query instance has no attribute 'data_queue' 
+2019-10-06 20:55:47:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:48:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:49:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:49:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:49:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:50:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:50:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:50:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:52:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:53:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:54:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:54:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:55:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:56:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:56:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:57:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:58:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:58:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:58:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:59:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:59:invalid literal for int() with base 16: '' 
+2019-10-06 20:55:59:invalid literal for int() with base 16: '' 
+2019-10-06 20:56:01:invalid literal for int() with base 16: '' 
+2019-10-06 20:56:26:invalid literal for int() with base 16: '' 
+2019-10-06 20:56:35:Query instance has no attribute 'data_queue' 
+2019-10-06 20:56:48:invalid literal for int() with base 16: '' 
+2019-10-06 20:56:55:invalid literal for int() with base 16: '' 
+2019-10-06 20:56:57:Query instance has no attribute 'data_queue' 
+2019-10-06 20:57:04:Query instance has no attribute 'data_queue' 
+2019-10-06 20:57:09:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:15:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:16:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:18:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:24:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:25:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:27:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:33:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:34:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:34:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:36:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:42:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:43:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:44:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:45:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:51:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:52:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:53:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:54:invalid literal for int() with base 16: '' 
+2019-10-06 20:57:55:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:00:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:01:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:02:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:03:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:04:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:09:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:10:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:11:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:13:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:13:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:18:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:19:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:20:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:22:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:22:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:27:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:28:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:29:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:31:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:31:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:36:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:37:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:38:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:40:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:40:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:45:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:46:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:47:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:49:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:49:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:54:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:55:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:56:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:58:invalid literal for int() with base 16: '' 
+2019-10-06 20:58:58:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:03:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:04:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:05:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:07:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:07:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:12:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:13:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:14:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:16:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:16:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:21:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:22:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:23:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:25:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:30:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:31:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:32:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:34:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:39:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:41:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:41:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:43:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:48:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:50:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:50:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:52:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:57:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:59:invalid literal for int() with base 16: '' 
+2019-10-06 20:59:59:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:01:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:06:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:08:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:08:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:10:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:15:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:17:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:17:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:19:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:24:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:26:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:26:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:28:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:33:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:35:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:35:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:37:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:42:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:44:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:44:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:46:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:51:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:53:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:53:invalid literal for int() with base 16: '' 
+2019-10-06 21:00:55:invalid literal for int() with base 16: '' 
+2019-10-06 21:01:00:invalid literal for int() with base 16: '' 
+2019-10-06 21:01:02:invalid literal for int() with base 16: '' 
+2019-10-06 21:01:02:invalid literal for int() with base 16: '' 
+2019-10-06 21:01:04:invalid literal for int() with base 16: '' 
+2019-10-06 21:01:09:invalid literal for int() with base 16: '' 
+2019-10-06 21:01:11:invalid literal for int() with base 16: '' 
+2019-10-06 21:01:11:invalid literal for int() with base 16: '' 
+2019-10-06 21:01:13:invalid literal for int() with base 16: '' 
+2019-10-06 21:01:18:invalid literal for int() with base 16: '' 
+2019-10-06 21:01:20:invalid literal for int() with base 16: '' 
+2019-10-06 21:01:20:invalid literal for int() with base 16: '' 
+2019-10-06 21:01:22:invalid literal for int() with base 16: '' 
+2019-10-06 21:01:27:invalid literal for int() with base 16: '' 
+2019-10-06 21:01:29:invalid literal for int() with base 16: '' 
+2019-10-06 21:01:29:invalid literal for int() with base 16: '' 
+2019-10-06 21:01:31:invalid literal for int() with base 16: '' 
+2019-10-06 21:06:07:local variable 'device_type' referenced before assignment 
+2019-10-06 21:06:16:Query instance has no attribute 'data_queue' 
+2019-10-06 21:06:23:local variable 'device_type' referenced before assignment 
+2019-10-06 21:06:28:local variable 'device_type' referenced before assignment 
+2019-10-06 21:06:32:Query instance has no attribute 'data_queue' 
+2019-10-06 21:06:37:local variable 'device_type' referenced before assignment 
+2019-10-06 21:06:43:local variable 'device_type' referenced before assignment 
+2019-10-06 21:06:44:local variable 'device_type' referenced before assignment 
+2019-10-06 21:06:46:local variable 'device_type' referenced before assignment 
+2019-10-06 21:06:52:local variable 'device_type' referenced before assignment 
+2019-10-06 21:06:53:local variable 'device_type' referenced before assignment 
+2019-10-06 21:06:55:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:02:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:03:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:01:Query instance has no attribute 'data_queue' 
+2019-10-06 21:07:04:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:11:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:12:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:13:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:13:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:20:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:21:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:22:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:22:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:29:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:29:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:30:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:31:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:31:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:38:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:39:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:40:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:40:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:38:Query instance has no attribute 'data_queue' 
+2019-10-06 21:07:43:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:47:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:48:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:49:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:49:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:50:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:52:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:56:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:57:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:58:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:58:local variable 'device_type' referenced before assignment 
+2019-10-06 21:07:59:local variable 'device_type' referenced before assignment 
+2019-10-06 21:08:03:local variable 'device_type' referenced before assignment 
+2019-10-06 21:08:01:Query instance has no attribute 'data_queue' 
+2019-10-06 21:08:37:local variable 'device_type' referenced before assignment 
+2019-10-06 21:08:43:local variable 'device_type' referenced before assignment 
+2019-10-06 21:08:52:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:03:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:01:Query instance has no attribute 'data_queue' 
+2019-10-06 21:09:12:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:14:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:21:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:23:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:23:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:30:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:32:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:32:Query instance has no attribute 'data_queue' 
+2019-10-06 21:09:39:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:41:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:43:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:44:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:48:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:50:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:52:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:53:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:57:local variable 'device_type' referenced before assignment 
+2019-10-06 21:09:59:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:02:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:03:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:01:Query instance has no attribute 'data_queue' 
+2019-10-06 21:10:06:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:08:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:11:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:12:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:13:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:15:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:17:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:20:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:21:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:22:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:23:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:24:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:26:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:29:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:30:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:31:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:33:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:35:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:32:Query instance has no attribute 'data_queue' 
+2019-10-06 21:10:38:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:39:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:40:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:42:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:43:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:44:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:44:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:47:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:48:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:49:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:51:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:53:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:53:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:52:Query instance has no attribute 'data_queue' 
+2019-10-06 21:10:56:local variable 'device_type' referenced before assignment 
+2019-10-06 21:10:57:local variable 'device_type' referenced before assignment 
+2019-10-06 21:19:06:local variable 'device_type' referenced before assignment 
+2019-10-06 21:19:15:local variable 'device_type' referenced before assignment 
+2019-10-06 21:19:23:local variable 'device_type' referenced before assignment 
+2019-10-06 21:19:24:local variable 'device_type' referenced before assignment 
+2019-10-06 21:19:32:local variable 'device_type' referenced before assignment 
+2019-10-06 21:19:33:local variable 'device_type' referenced before assignment 
+2019-10-06 21:19:41:local variable 'device_type' referenced before assignment 
+2019-10-06 21:19:42:local variable 'device_type' referenced before assignment 
+2019-10-06 21:19:43:local variable 'device_type' referenced before assignment 
+2019-10-06 21:19:50:local variable 'device_type' referenced before assignment 
+2019-10-06 21:19:51:local variable 'device_type' referenced before assignment 
+2019-10-06 21:19:52:local variable 'device_type' referenced before assignment 
+2019-10-06 21:19:59:local variable 'device_type' referenced before assignment 
+2019-10-06 21:20:00:local variable 'device_type' referenced before assignment 
+2019-10-06 21:20:01:local variable 'device_type' referenced before assignment 
+2019-10-06 21:20:03:local variable 'device_type' referenced before assignment 
+2019-10-06 21:20:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:20:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:21:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:00:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:53:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:54:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:22:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:00:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:02:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:11:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:14:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:20:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:29:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:53:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:56:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:23:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:00:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:02:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:11:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:20:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:22:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:22:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:29:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:31:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:31:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:40:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:49:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:53:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:53:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:24:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:00:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:00:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:02:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:02:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:11:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:11:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:16:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:20:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:20:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:22:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:22:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:29:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:29:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:31:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:31:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:40:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:40:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:49:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:49:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:53:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:54:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:54:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:54:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:25:56:local variable 'latitude' referenced before assignment 
+2019-10-06 21:30:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:30:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:30:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:30:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:30:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:30:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:30:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:30:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:30:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:30:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:30:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:30:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:30:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:49:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:53:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:53:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:54:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:31:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:00:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:02:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:02:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:11:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:11:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:16:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:16:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:20:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:29:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:54:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:56:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:32:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:05:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:14:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:16:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:22:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:31:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:40:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:40:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:49:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:49:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:53:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:54:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:33:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:00:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:00:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:02:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:11:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:16:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:16:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:16:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:20:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:22:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:22:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:29:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:31:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:31:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:40:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:40:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:40:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:49:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:49:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:53:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:54:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:54:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:54:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:56:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:34:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:00:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:00:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:02:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:05:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:11:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:14:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:16:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:16:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:16:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:20:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:22:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:29:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:31:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:40:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:49:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:53:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:54:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:54:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:54:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:56:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:35:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:00:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:02:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:05:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:11:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:14:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:16:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:20:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:22:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:22:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:22:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:29:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:31:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:31:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:31:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:40:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:40:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:49:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:49:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:53:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:54:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:56:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:36:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:00:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:00:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:00:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:05:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:14:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:16:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:16:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:22:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:22:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:22:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:31:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:31:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:31:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:40:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:40:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:40:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:49:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:49:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:37:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:52:53:local variable 'latitude' referenced before assignment 
+2019-10-06 21:53:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:53:20:local variable 'latitude' referenced before assignment 
+2019-10-06 21:53:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:53:29:local variable 'latitude' referenced before assignment 
+2019-10-06 21:53:29:local variable 'latitude' referenced before assignment 
+2019-10-06 21:53:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:53:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:53:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:53:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:53:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:53:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:53:56:local variable 'latitude' referenced before assignment 
+2019-10-06 21:53:56:local variable 'latitude' referenced before assignment 
+2019-10-06 21:53:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:53:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:05:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:05:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:14:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:14:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:16:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:29:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:49:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:56:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:58:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:54:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:00:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:05:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:07:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:14:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:16:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:16:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:25:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:27:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:29:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:34:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:36:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:43:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:52:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:53:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:53:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:54:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:56:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:55:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:01:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:02:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:02:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:05:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:10:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:11:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:11:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:14:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:19:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:20:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:20:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:22:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:26:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:29:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:29:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:35:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:39:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:41:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:42:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:44:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:45:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:46:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:47:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:48:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:50:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:51:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:53:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:53:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:54:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:55:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:56:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:56:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:57:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:56:59:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:00:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:02:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:02:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:03:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:04:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:05:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:06:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:08:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:09:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:11:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:11:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:12:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:13:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:14:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:15:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:17:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:18:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:20:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:20:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:21:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:23:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:24:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:28:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:29:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:29:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:30:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:32:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:33:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:37:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:38:local variable 'latitude' referenced before assignment 
+2019-10-06 21:57:38:local variable 'latitude' referenced before assignment 

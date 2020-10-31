@@ -1,0 +1,38 @@
+61D_BW08----------61D- the software version and gps model BW08 
+TIME:2015/07/17 12:56------the software compiling date 
+IMEI:358911020094039------GPS DEVICE IMEI number
+IP-wz:114.119.5.230:7700------IP and port (our platform)
+
+GPRS=1 (when GPRS=1 mean device could receive GPRS signal normally,
+ if GPRS=0, this means gps device could not receive GPRS signal, and gps device will offline at this case)
+
+GPS=1 ( GPS=1 means get gps signal normal, if GPS=0, means gps device could not get GPS signal)
+M=1-----------static state drifting protection function
+GSM5  (means GSM signal strong or weak)
+Net=3,----------The state of connections between device and the server
+TZ=E8,----------timezone (it is default , if customer use our platform ,do not change this timezon,otherwise will offline on our server. if customer use their own server, it can send sms command to change it )
+LBS=0,---------LBS positioning state ;0=close£¬1=open
+Reissue=1,-------the function of device tranfer data to server when GSM signal blind area  £¬1=open£¬0=close
+Angle=1,---------Angle data transfer function;1=open£¬0=close
+C&S alarm=1,------calling and message alarm function£¬1=open£¬0=close
+Xieyi=0,--------the communication protocol£¬our device with 2 protocol£¬0=benway1 protocol   1=benway2 protocol
+MT=10,-----upload data interval  in moving status,range is 10seconds to 200seconds
+ST=5,------upload data interval in steady status, range is 1mins. to 60mins.
+MS=0,-----this data is for  manufacture reference when debugging . customer can ignore this.
+Bat=4.17V( gps device battery voltage)----the voltage of built-in battery 
+Vol=25.0V( vehicle battery voltage)------the voltage of the vehicle's battery
+Ad1:9909035962 ( Admin1 number)-----the administrator number 1
+Ad2:9687585001 ( Admin2 number)-----the administrator number2
+
+Note:
+	net = 0,	///<watting for GPRS TASK 
+	net = 1,	///<GPRS creating
+	net = 2,	///<GPRS creat successful 
+	net = 3,   	//getting ip from domain name
+	net = 4,	//got ip from domain name
+	net = 5,	///<connecting server
+	net = 6,	///<connecte server successful---if net value more than 7 ,means devcie make connection ok with server
+	net = 7,	///<sending data to server
+	net = 8,	///<send data to server successful 
+	net = 9,	///<receiving data from server
+	net = 10, 	///<receive data from server successful

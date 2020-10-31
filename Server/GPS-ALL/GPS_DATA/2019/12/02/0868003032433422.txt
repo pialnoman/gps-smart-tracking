@@ -1,0 +1,2 @@
+{"datetimee": "2019-12-02 10:21:29", "equipment_id": "0868003032433422", "latitude": "23\u00b046.4608", "longitude": "90\u00b021.8777", "direction": 236, "speed": "0", "bat_power": null}
+{"datetimee": "2019-12-02 10:22:29", "equipment_id": "0868003032433422", "latitude": "23\u00b046.4608", "longitude": "90\u00b021.8777", "direction": 99, "speed": "0", "bat_power": null}

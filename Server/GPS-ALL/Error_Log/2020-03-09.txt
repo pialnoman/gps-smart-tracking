@@ -1,0 +1,1 @@
+2020-03-09 14:37:43:[WinError 183] Cannot create a file when that file already exists: 'GPS_DATA/2020/3/09' 

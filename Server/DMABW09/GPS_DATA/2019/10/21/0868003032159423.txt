@@ -1,0 +1,1 @@
+{"datetimee": "2019-10-21 16:24:05", "equipment_id": "0868003032159423", "latitude": "23.0\u00b00.0", "longitude": "90.0\u00b00.0", "direction": 147, "speed": "0", "bat_power": null}

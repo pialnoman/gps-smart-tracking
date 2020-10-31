@@ -1,0 +1,6 @@
+2019-09-08 16:54:35:list index out of range 
+2019-09-08 16:54:43:list index out of range 
+2019-09-08 16:54:53:list index out of range 
+2019-09-08 17:35:11:list index out of range 
+2019-09-08 17:35:21:list index out of range 
+2019-09-08 17:42:37:list index out of range 

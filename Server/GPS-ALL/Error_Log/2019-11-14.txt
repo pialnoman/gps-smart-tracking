@@ -1,0 +1,2 @@
+2019-11-14 12:29:41:local variable 'latitude_new' referenced before assignment 
+2019-11-14 12:48:57:local variable 'latitude_new' referenced before assignment 
